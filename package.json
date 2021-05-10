@@ -14,9 +14,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "11.2.13",
     "@angular/common": "~11.2.7",
-    "@angular/compiler": "11.2.13",
     "@angular/core": "~11.2.7",
     "@angular/forms": "~11.2.7",
     "@angular/platform-browser": "~11.2.7",
@@ -29,7 +27,6 @@
     "@ionic/angular": "^5.0.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.5.1",
-    "tint": "^0.2.1",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
